@@ -1,3 +1,6 @@
 .hidden{
-    display: none;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background: #36d92e;
 }
